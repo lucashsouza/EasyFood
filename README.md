@@ -1,9 +1,6 @@
 # EasyFood
 EasyFood is an app that makes making food easier and gives you full information about the selected meal including instructions of how to make that meal provided by a video.
 
-# Preview
-download apk app : https://www.mediafire.com/file/e2pteuagpozgdtm/Easy_food.apk/file
-
 # Libraries and technologies used
 - Navigation component : one activity contains multiple fragments instead of creating multiple activites.
 - Retrofit : making HTTP connection with the rest API and convert meal json file to Kotlin/Java object.
